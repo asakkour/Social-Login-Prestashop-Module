@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>asksociallogin</name>
+	<displayName><![CDATA[Askreative module for login and sign in by social acoount]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[With this module, your customers will be able to login and sign in with facebook or google plus account.]]></description>
+	<author><![CDATA[askreative.ma Team]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
